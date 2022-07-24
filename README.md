@@ -1,2 +1,2 @@
 # vmssb
-VMSS Backend (Django React Framework) code
+VMSS Backend Student Microservice (DRF code)
